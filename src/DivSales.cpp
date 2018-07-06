@@ -1,4 +1,3 @@
-//#include "stdafx.h"
 #include "DivSales.h"
 
 float DivSales :: sales[4] = {0,0,0,0};

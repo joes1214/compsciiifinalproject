@@ -1,7 +1,12 @@
-// FinalProject.cpp : Defines the entry point for the console application.
-//
+/*
+Name: Joseph Salcedo
+Class: CIS 161 M01
+Date: 05/04/2017
+Program Name: Project 6 PCCC Corporation
+Description: Calculates numbers for Regions and their Quarterly rates using
+Array classes.
+*/
 
-//#include "stdafx.h"
 #include <iostream>	
 #include "DivSales.h"
 
